@@ -1,6 +1,6 @@
 Hi 👋, I'm Fida
 
-I'm a fresh graduate in Earth Physics and Complex Systems, my academic journey has been complemented by a profound interest in data. Having completed a data analytics course from RevoU, I'm equipped with practical skills to tackle complex problems using data-driven insights. Eager to apply my knowledge and contribute effectively in a dynamic and collaborative environment. Currently, I am actively pursuing a fresh opportunity, eager to employ my skills and knowledge to facilitate data-driven decision-making and unleash the full potential of data within your organization.
+I'm a fresh graduate in Earth Physics and Complex Systems, my academic journey has been complemented by a profound interest in data. Having completed a Data Analytics and Software Engineering course from RevoU, I'm equipped with practical skills to tackle complex problems using data-driven insights. Eager to apply my knowledge and contribute effectively in a dynamic and collaborative environment. Currently, I am actively pursuing a fresh opportunity, eager to employ my skills and knowledge to facilitate data-driven decision-making and unleash the full potential of data within your organization.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isnainimufidhatulmughni&label=Profile%20views&color=0e75b6&style=flat" alt="isnainimufidhatulmughni" /> </p>
 
