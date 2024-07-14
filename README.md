@@ -6,7 +6,7 @@ Currently, I am actively pursuing a fresh opportunity, eager to employ my skills
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isnainimufidhatulmughni&label=Profile%20views&color=0e75b6&style=flat" alt="isnainimufidhatulmughni" /> </p>
 
-- 👨‍💻 All of my data analytics projects are available at [Data Analyst Portfolio](https://github.com/isnainimufidhatulmughni/Data-Analyst-Portfolio)
+- 👨‍💻 All of my data analytics and data science projects are available at [Data Analyst & Data Science Portfolio](https://github.com/isnainimufidhatulmughni/Data-Analyst-Portfolio)
 - 🕸 Software engineering projects at [Software Engineering Portfolio](https://github.com/isnainimufidhatulmughni/Software-Engineering-Portfolio)
 
 <h3 align="left">Languages and Tools:</h3>
