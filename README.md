@@ -8,7 +8,7 @@ Currently, I am actively pursuing a fresh opportunity, eager to employ my skills
 
 - 👨‍💻 All of my data analytics and data science projects are available at [Data Analyst & Data Science Portfolio](https://github.com/isnainimufidhatulmughni/Data-Analyst-Portfolio)
 - 🕸 Software engineering projects at [Software Engineering Portfolio](https://github.com/isnainimufidhatulmughni/Software-Engineering-Portfolio)
-- AI Engineer projects at [AI Engineer Protfolio]()
+- 🤖 AI Engineer projects at [AI Engineer Protfolio](https://github.com/isnainimufidhatulmughni/AI-Engineer-Portfolio)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
